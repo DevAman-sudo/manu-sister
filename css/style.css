@@ -243,7 +243,7 @@
   stroke-miterlimit: 10;
   stroke-dasharray: 100;
   stroke-dashoffset: 0;
-  animation: stroke-reveal 5s ease infinite;
+  animation: stroke-reveal 4s ease infinite;
 }
 
 @keyframes stroke-reveal {
